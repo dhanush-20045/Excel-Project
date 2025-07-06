@@ -24,37 +24,37 @@
 
 | Metric            | Description |
 |-------------------|-------------|
-| 📞 Calls         | Total number of calls handled (overall and by agent) |
+|  Calls         | Total number of calls handled (overall and by agent) |
 
-| 💰 Amount        | Revenue generated from calls |
+|  Amount        | Revenue generated from calls |
 
-| ⏱️ Duration      | Total call duration (in minutes or seconds) |
+| ⏱ Duration      | Total call duration (in minutes or seconds) |
 
-| ⭐ Average Rating | Average customer feedback score (scale of 1 to 5) |
+|  Average Rating | Average customer feedback score (scale of 1 to 5) |
 
-| 😊 Happy Calls   | Number of calls with high satisfaction rating |
+|  Happy Calls   | Number of calls with high satisfaction rating |
 
-| 👥 Gender Split  | Customer gender distribution across cities |
+|  Gender Split  | Customer gender distribution across cities |
 
 ---
 
 ## Dashboard Sections
 
-- Top KPIs (Left Panel):** High-level stats like total calls, amount, average rating, duration, and happy calls.
+-  Top KPIs (Left Panel): High-level stats like total calls, amount, average rating, duration, and happy calls.
   
-- **Call Trend (Top Middle):** Line graph of monthly call volume.
-- 
-- **Day-wise Trend (Top Middle-Right):** Bar chart showing calls by day of the week.
-- 
-- **Gender Distribution (Top Right):** Stacked bar chart showing male/female breakdown by city.
-- 
-- **Rating Distribution (Top Right):** Histogram of customer feedback ratings (1–5).
-- 
-- **Performance by Representative (Middle):** Bar charts showing calls and revenue per rep.
-- 
-- **Detailed Table (Bottom Right):** City and agent-wise breakdown of revenue contributions.
-- 
-- **Interactive Filter (Middle Right):** Dropdown slicer to focus analysis on specific agents.
+  1) Call Trend (Top Middle): Line graph of monthly call volume.
+ 
+  2) Day-wise Trend (Top Middle-Right): Bar chart showing calls by day of the week.
+ 
+  3) Gender Distribution (Top Right): Stacked bar chart showing male/female breakdown by city.
+ 
+  4) Rating Distribution (Top Right): Histogram of customer feedback ratings (1–5).
+  
+  5)bPerformance by Representative (Middle): Bar charts showing calls and revenue per rep.
+ 
+  6) Detailed Table (Bottom Right): City and agent-wise breakdown of revenue contributions.
+  
+  7) Interactive Filter (Middle Right): Dropdown slicer to focus analysis on specific agents.
 
 ---
 
@@ -67,7 +67,7 @@
    - Removed duplicates and blank rows.
      
    - Converted date/time fields to proper format.
-   - 
+     
    - Calculated derived metrics like "Happy Calls" and "Average Rating."
 
 3) Pivot Table Creation:
@@ -110,13 +110,16 @@
 
 ## 📁 File Details
 
-- **File Name**: `Call Center Report Dashboard (2023)`
-- 
-- **Format**: Microsoft Excel (.xlsx/.xlsb)
-- 
-- **Sheets Included**:
+- File Name: `Call Center Report Dashboard (2023)`
+ 
+- Format: Microsoft Excel (.xlsx/.xlsb)
+  
+- Sheets Included:
+  
   - Raw Data
+    
   - Pivot Tables
+    
   - Dashboard
 
 ---
@@ -124,19 +127,19 @@
 ## 🔧 Tools Used
 
 - **Microsoft Excel 2022+**
-- 
+  
 - **Pivot Tables** – For summarizing and aggregating data
-- 
+  
 - **Advanced Excel Formulas** – Including `VLOOKUP`, `HLOOKUP`, `INDEX-MATCH`, `IF`, `SUMIFS`, etc.
-- 
+  
 - **Data Validation** – To restrict inputs and improve data quality
-- 
+  
 - **Conditional Formatting** – For dynamic visual highlighting
-- 
+  
 - **Charting** – Line, Bar, Stacked Column, Histogram visuals
-- 
+  
 - **Slicers** – For interactive dashboard filtering
-- 
+  
 - **Calculated Fields** – For dynamic KPI metrics (e.g., Happy Calls, Avg Ratings)
 
 ---
@@ -146,11 +149,11 @@
 The dashboard analysis showed:
 
 - **October** had the highest call volume.
-- 
+  
 - **Wednesday** was the busiest day of the week.
-- 
+  
 - **Cleveland** had the highest number of female callers.
-- 
+  
 - **Representative R03** ranked **1st** in revenue and **2nd** in call volume.
-- 
+  
 - A majority of customers gave ratings of **4 or 5**, reflecting high satisfaction.
