@@ -8,11 +8,11 @@
 
 ## Objectives
 
-- Provide a centralized **dashboard view** to analyze performance metrics.
-- Enable **interactive filtering** by representative.
-- Track **monthly and weekly trends** in calls and performance.
-- Identify **customer satisfaction levels** using rating distribution.
-- Highlight **key metrics** like total calls, revenue, and average rating.
+1. Provide a centralized **dashboard view** to analyze performance metrics.
+2. Enable **interactive filtering** by representative.
+3. Track **monthly and weekly trends** in calls and performance.
+4. Identify **customer satisfaction levels** using rating distribution.
+5. Highlight **key metrics** like total calls, revenue, and average rating.
 
 ---
 
