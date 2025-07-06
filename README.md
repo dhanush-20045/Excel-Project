@@ -29,7 +29,7 @@
 
 |  Amount        | Revenue generated from calls |
 
-| ⏱ Duration      | Total call duration (in minutes or seconds) |
+|  Duration      | Total call duration (in minutes or seconds) |
 
 |  Average Rating | Average customer feedback score (scale of 1 to 5) |
 
