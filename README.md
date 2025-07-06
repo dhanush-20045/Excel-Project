@@ -24,6 +24,7 @@
 
 | Metric            | Description |
 |-------------------|-------------|
+
 |  Calls         | Total number of calls handled (overall and by agent) |
 
 |  Amount        | Revenue generated from calls |
@@ -50,7 +51,7 @@
  
   4) Rating Distribution (Top Right): Histogram of customer feedback ratings (1–5).
   
-  5)bPerformance by Representative (Middle): Bar charts showing calls and revenue per rep.
+  5) Performance by Representative (Middle): Bar charts showing calls and revenue per rep.
  
   6) Detailed Table (Bottom Right): City and agent-wise breakdown of revenue contributions.
   
