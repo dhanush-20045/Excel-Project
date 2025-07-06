@@ -1,12 +1,12 @@
 
-# 📞 Call Center Report Dashboard – 2023
+# Call Center Report Dashboard – 2023
 
-## 📌 Problem Statement 
+## Problem Statement 
 
 - The call center needed a visual dashboard to analyze call volume, revenue, agent performance, customer satisfaction, and gender-wise distribution across cities, enabling better decision-making and performance tracking.
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Provide a centralized **dashboard view** to analyze performance metrics.
 - Enable **interactive filtering** by representative.
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Key Metrics Tracked
+## Key Metrics Tracked
 
 | Metric            | Description |
 |-------------------|-------------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧩 Dashboard Sections
+## Dashboard Sections
 
 - **Top KPIs (Left Panel):** High-level stats like total calls, amount, average rating, duration, and happy calls.
 - **Call Trend (Top Middle):** Line graph of monthly call volume.
@@ -42,7 +42,7 @@
 
 ---
 
-## ✅ Steps Implemented
+## Steps Implemented
 
 1. **Data Collection**: Gathered call records including call ID, city, agent ID, duration, amount, rating, gender, and call date.
 
@@ -90,12 +90,14 @@
 
 ## 🔧 Tools Used
 
-- Microsoft Excel 2016+
-- Pivot Tables
-- Data Validation
-- Conditional Formatting
-- Charting (Line, Bar, Column)
-- Slicers
+- **Microsoft Excel 2016+**
+- **Pivot Tables** – For summarizing and aggregating data
+- **Advanced Excel Formulas** – Including `VLOOKUP`, `HLOOKUP`, `INDEX-MATCH`, `IF`, `SUMIFS`, etc.
+- **Data Validation** – To restrict inputs and improve data quality
+- **Conditional Formatting** – For dynamic visual highlighting
+- **Charting** – Line, Bar, Stacked Column, Histogram visuals
+- **Slicers** – For interactive dashboard filtering
+- **Calculated Fields** – For dynamic KPI metrics (e.g., Happy Calls, Avg Ratings)
 
 ---
 
