@@ -3,9 +3,9 @@
 
 ## 📌 Problem Statement
 
-The call center required a visual dashboard to analyze call volume, revenue, agent performance, customer satisfaction, and gender distribution across cities. 
+- The call center required a visual dashboard to analyze call volume, revenue, agent performance, customer satisfaction, and gender distribution across cities. 
 
-The goal was to enable better decision-making, operational planning, and performance tracking.
+- The goal was to enable better decision-making, operational planning, and performance tracking.
 
 
 ---
@@ -29,22 +29,17 @@ The goal was to enable better decision-making, operational planning, and perform
 
 ## 📊 Key Metrics Tracked
 
+- **Calls**: Total number of calls handled (overall and by agent)
 
-| Metric            | Description                                              |
+- **Amount**: Revenue generated from calls
 
-|-------------------|----------------------------------------------------------|
+- **Duration**: Total call duration (in minutes or seconds)
 
-| **Calls**         | Total number of calls handled (overall and by agent)     |
+- **Average Rating**: Average customer feedback score (scale of 1 to 5)
 
-| **Amount**        | Revenue generated from calls                             |
+- **Happy Calls**: Number of calls with high satisfaction rating
 
-| **Duration**      | Total call duration (in minutes or seconds)              |
-
-| **Average Rating**| Average customer feedback score (scale of 1 to 5)        |
-
-| **Happy Calls**   | Number of calls with high satisfaction rating            |
-
-| **Gender Split**  | Customer gender distribution across cities               |
+- **Gender Split**: Customer gender distribution across cities
 
 
 ---
@@ -69,9 +64,7 @@ The goal was to enable better decision-making, operational planning, and perform
 
 - **Interactive Filter (Middle Right):** Dropdown slicer to filter by representative  
 
-
 ---
-
 
 ## ⚙️ Steps Implemented
 
